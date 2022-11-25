@@ -1,15 +1,15 @@
-CLI: revanced-cli-2.16.1-all.jar  
-Integrations: app-release-unsigned-v0.71.0.apk  
-Patches: revanced-patches-2.111.2.jar  
+CLI: revanced-cli-2.17.0-all.jar  
+Integrations: app-release-unsigned-v0.78.0.apk  
+Patches: revanced-patches-2.122.0.jar  
 
-#### [2.111.2](https://github.com/revanced/revanced-patches/compare/v2.111.1...v2.111.2) (2022-11-18)
-### Bug Fixes
-* **youtube/general-ads:** import correct compatibility annotation ([#1065](https://github.com/revanced/revanced-patches/issues/1065)) ([db2085c](https://github.com/revanced/revanced-patches/commit/db2085c217311a8b7d45a01c03c6162bc60a9298))
+### [2.122.0](https://github.com/revanced/revanced-patches/compare/v2.121.0...v2.122.0) (2022-11-25)
+### Features
+* **tiktok:** `sim-spoof` patch ([#1088](https://github.com/revanced/revanced-patches/issues/1088)) ([53bb547](https://github.com/revanced/revanced-patches/commit/53bb547cc1003859f1d42db819a897e120b17fbe))
 
   
 **App Versions:**  
-YouTube: 17.43.36  
 Music (arm64-v8a): 5.31.50  
+YouTube: 17.45.36  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
